@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/gazaperp",
   "VITE_SEO_SITE_NAME": "GazaPERP",
   "VITE_SEO_SITE_DESCRIPTION": "A great perp for the dex",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/gazaperp-6045/",
+  "VITE_SEO_SITE_URL": "https://gazaperp.org",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@gazaperp",
